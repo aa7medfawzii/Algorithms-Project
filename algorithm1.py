@@ -1,6 +1,6 @@
 """
 Name: Ahmed Mahmoud Fawzi Shaaban
-ID: 100287413           Section: 2
+ID: 1000287413           Section: 2
 algorithm1.py - Naive Recursive Implementation
 """
 def coin_change_naive(coins, amount):
@@ -33,4 +33,5 @@ result = solve(coins, amount)
 end = time.time()
 
 print("Result:", result)
+
 print("Execution time:", (end - start), "seconds")
