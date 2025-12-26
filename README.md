@@ -1,2 +1,4 @@
 # Algorithms-Project
-Implementation of the Coin Change problem using two approaches: a naive recursive solution and an optimized dynamic programming solution.
+Implementation of the Coin Change problem using two approaches:
+- naive recursive solution
+- optimized dynamic programming solution
