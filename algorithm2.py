@@ -1,6 +1,6 @@
 """
 Name: Ahmed Mahmoud Fawzi Shaaban
-ID: 100287413               Section: 2
+ID: 1000287413               Section: 2
 algorithm2.py - Optimized Dynamic Programming Implementation
 """
 def coin_change_dp(coins, amount):
@@ -24,4 +24,5 @@ result = coin_change_dp(coins, amount)
 end = time.time()
 
 print("Result:", result)
+
 print("Execution time:", (end - start), "seconds")
